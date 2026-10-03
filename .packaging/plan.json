@@ -1,0 +1,14 @@
+{
+  "build_script": "tsc && vite build",
+  "gameplay_or_asset_changes": false,
+  "lockfile": "package-lock.json",
+  "mode": "native_source_build",
+  "repository": "pncsoares/hangman",
+  "schema_version": 1,
+  "source_changes": [
+    ".packaging/plan.json"
+  ],
+  "status": "ready",
+  "upstream_code_executed_locally": false,
+  "upstream_sha": "faea47fa1dc3c07d24a33a742f0e39196d7cc82e"
+}
